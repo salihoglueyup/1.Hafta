@@ -1,4 +1,4 @@
-
-echo 'Yaşınızı giriniz'
-read age
-echo $age
+echo 'saldirmak istediginiz siteyi giriniz:'
+read ping
+echo 'Saldiriliyor'
+ping $ping
